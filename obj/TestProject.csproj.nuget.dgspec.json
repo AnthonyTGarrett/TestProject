@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tonyg\\Documents\\dev\\GettingStarted\\TestProject\\TestProject.csproj": {}
+    "C:\\Users\\tonyg\\Documents\\dev\\TestProject\\TestProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tonyg\\Documents\\dev\\GettingStarted\\TestProject\\TestProject.csproj": {
+    "C:\\Users\\tonyg\\Documents\\dev\\TestProject\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tonyg\\Documents\\dev\\GettingStarted\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\tonyg\\Documents\\dev\\TestProject\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "C:\\Users\\tonyg\\Documents\\dev\\GettingStarted\\TestProject\\TestProject.csproj",
+        "projectPath": "C:\\Users\\tonyg\\Documents\\dev\\TestProject\\TestProject.csproj",
         "packagesPath": "C:\\Users\\tonyg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tonyg\\Documents\\dev\\GettingStarted\\TestProject\\obj\\",
+        "outputPath": "C:\\Users\\tonyg\\Documents\\dev\\TestProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
